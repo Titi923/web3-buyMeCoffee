@@ -1,0 +1,24 @@
+/* Navigation-bar */
+.navbar {
+    background: linear-gradient(0deg, rgb(184 88 0), rgb(255 167 0));
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Navigation logo */
+.logo-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 100px !important;
+    height: 50px !important;
+    padding: 0 0.75rem;
+}
+
+.navbar--ul {
+    list-style: none;
+    margin: 1rem;
+}
