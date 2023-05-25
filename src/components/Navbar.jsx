@@ -1,4 +1,4 @@
-import Logo from '../assets/Favicon.svg';
+import Logo from '../assets/Logo.svg';
 import './Navbar.css';
 //
 import { useEffect, useState } from "react";
